@@ -115,15 +115,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Credits
 
-Built with ❤️ by [Your Name]. Powered by Google Gemini and Python open-source libraries.
+Built with ❤️ by [Aayushi Mishra]. Powered by Google Gemini and Python open-source libraries.
 
 Want to contribute? Fork the repo and submit a PR 🚀
-
----
-
-## 📊 Screenshots (Optional)
-
-> Add screenshots or gifs of the project running if available
 
 ---
 
