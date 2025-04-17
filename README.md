@@ -1,6 +1,6 @@
 # 🔊 Voice Assistant using Python
 
-A powerful voice-controlled assistant built with Python that use to answer deep questions, tell jokes, fetch the weather, solve math problems, play music, and much more. This is your own mini Jarvis ✨.
+A powerful voice-controlled assistant built with Python that use to answer deep questions, tell jokes, fetch the weather, solve math problems, play music, and much more. This is your own mini Alexa ✨.
 
 ---
 
